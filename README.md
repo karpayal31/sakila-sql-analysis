@@ -132,6 +132,7 @@ movie_rental_analysis/
 
 The ERD represents relationships between tables such as customer, rental, payment, and film.
 
+<img width="1466" height="1223" alt="image" src="https://github.com/user-attachments/assets/ee9138ad-b794-4f11-8e89-1e11b6180c19" />
 
 
 ---
