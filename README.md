@@ -1,4 +1,4 @@
-# Movie Rental Data Analysis using SQL
+# Sakila SQL Business Analysis
 
 ## Project Overview
 
@@ -32,8 +32,6 @@ The analysis aims to answer the following:
 8. Which staff members handle the most transactions?
 9. What are the busiest rental days?
 10. Which movie ranks highest within each category?
-
-(See **business_questions.md** for detailed questions.)
 
 ---
 
@@ -134,7 +132,7 @@ movie_rental_analysis/
 
 The ERD represents relationships between tables such as customer, rental, payment, and film.
 
-(Add ERD image here)
+
 
 ---
 
@@ -144,8 +142,14 @@ The ERD represents relationships between tables such as customer, rental, paymen
 * Window Functions
 * DB Client (MySQL Workbench / DBeaver)
 * Markdown Documentation
+* Git & Github
 
 ---
+
+## How to Run
+1. Load Sakila database in MySQL
+2. Execute queries from /queries folder
+3. Review analysis report in /docs
 
 ## Conclusion
 
