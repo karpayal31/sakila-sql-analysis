@@ -141,7 +141,7 @@ The ERD represents relationships between tables such as customer, rental, paymen
 
 * SQL (MySQL/PostgreSQL)
 * Window Functions
-* DB Client (MySQL Workbench / DBeaver)
+* DB Client (MySQL Workbench)
 * Markdown Documentation
 * Git & Github
 
